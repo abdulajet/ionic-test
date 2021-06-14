@@ -1,0 +1,7 @@
+{
+  "name": "BasicVideoChat-Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
